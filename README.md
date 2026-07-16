@@ -37,7 +37,7 @@ I specialize in building high-end, high-conversion digital experiences. With a f
 ##  The Analytical Edge
 Beyond code, my background in **Sociological Technology** allows me to analyze how digital systems influence user participation and development outcomes. I don't just build websites; I build systems that perform.
 
-📫 **How to reach me:** [Twitter/X](https://x.com/Empire_WebDev-)- 
+📫 **How to reach me:** [Twitter/X](https://x.com/Empire_WebDev-)-  [Email](mailto:peter@theempiregrowth.com
 <!---
 Peter-Aderinto/Peter-Aderinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
