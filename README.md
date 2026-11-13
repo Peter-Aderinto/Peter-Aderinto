@@ -1,4 +1,4 @@
-#  Hi, I'm Peter | Frontend Developer & E-commerce Architect
+#  Hi, I'm Peter Aderinto (Aderinto Peter Oluwaseun) | Frontend Developer & E-commerce Architect
 
 I specialize in building high-end, high-conversion digital experiences. With a focus on **Shopify development**, **Liquid**, and **Custom Frontend Logic**, I help global brands bridge the gap between "aesthetic design" and "technical performance."
 
